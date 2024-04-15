@@ -1,7 +1,7 @@
 ---
 title: ACM - REP 2023
 
-event: Diverse Team Winter Seminar
+event: 2023 ACM Conference on Reproducibility and Replicability
 
 location: Santa-Cruz, California, USA
 
