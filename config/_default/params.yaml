@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Romain Lefeuvre. This work is licensed under {license}'
+    notice: '© {year} Romain Lefeuvre. This work is licensed under {license} - [George Cushen Academic Theme](https://themes.gohugo.io/themes/theme-academic-cv/)'
     license:
       enable: true
       allow_derivatives: false
