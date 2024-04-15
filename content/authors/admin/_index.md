@@ -44,7 +44,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Software Engienering
+    - course: MEng in Software Engineering
       institution: ESIR - University of Rennes Graduate School of Engineering 
       year: 2021
     - course: Undergraduate Preparatory Cycle in Software Engineering 
