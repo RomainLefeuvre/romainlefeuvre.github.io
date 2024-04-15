@@ -80,6 +80,6 @@ social:
 highlight_name: true
 ---
 
-I am PhD student in Software Engineering at [University of Rennes](https://www.univ-rennes.fr/en) evolving in the [DiverSE team](https://www.diverse-team.fr/). I am supervised by [Benoit Combemale](https://people.irisa.fr/Benoit.Combemale/), [Quentin Perez](https://qperez.github.io/#about-me), [Jessie Galasso-Carbonnel](https://jgalasso.github.io/) and [Olivier Barais](https://olivier.barais.fr/). My research interests include Software Energy Consumption, Green IT, Software Repository Mining, Model-Driven Engineering. 
+I am a PhD student in Software Engineering at [University of Rennes](https://www.univ-rennes.fr/en) evolving in the [DiverSE team](https://www.diverse-team.fr/). I am supervised by [Benoit Combemale](https://people.irisa.fr/Benoit.Combemale/), [Quentin Perez](https://qperez.github.io/#about-me), [Jessie Galasso-Carbonnel](https://jgalasso.github.io/) and [Olivier Barais](https://olivier.barais.fr/). My research interests include Software Energy Consumption, Green IT, Software Repository Mining, Model-Driven Engineering. 
 
 {style="text-align: justify;"}
