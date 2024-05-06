@@ -58,6 +58,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD Candidate
+          company: University of Rennes, Inria, IRISA
+          company_url: 'https://www.univ-rennes.fr/en'
+          company_logo: ur
+          location: Rennes, France
+          date_start: '2023-11-01'
+
         - title: Research Engineer
           company: Inria
           company_url: 'https://www.inria.fr/en'
