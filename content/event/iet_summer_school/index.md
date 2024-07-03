@@ -1,11 +1,11 @@
 ---
-title: Measuring energy consumption in the complex world of DevOps
+title: EIT Digital - Summer School "Green IT and IT for Green"
 
 event: 2024 Green IT and IT for Green - Innovative Ventures for Social and Environmental Sustainability
 
 location: Rennes, Brittany, France
 
-summary: In person co-presentation at EIT Digital summer school on []"Green IT and IT for Green"](https://summerschool.eitdigital.eu/green-it-and-it-for-green)
+summary: In person co-presentation at EIT Digital summer school on ["Green IT and IT for Green"](https://summerschool.eitdigital.eu/green-it-and-it-for-green)
 
 
 # Talk start and end times.
