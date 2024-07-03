@@ -5,7 +5,7 @@ event: 2024 Green IT and IT for Green - Innovative Ventures for Social and Envir
 
 location: Rennes, Brittany, France
 
-summary: In person co-presentation at EIT Digital summer school on "Green IT and IT for Green"
+summary: In person co-presentation at EIT Digital summer school on []"Green IT and IT for Green"](https://summerschool.eitdigital.eu/green-it-and-it-for-green)
 
 
 # Talk start and end times.
