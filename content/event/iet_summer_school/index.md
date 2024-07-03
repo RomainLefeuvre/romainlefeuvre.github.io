@@ -46,6 +46,7 @@ projects:
 {{% callout note %}}
 Click on the **PDF** button above to download the slides.
 
+https://summerschool.eitdigital.eu/green-it-and-it-for-green
 
 {{% /callout %}}
 
