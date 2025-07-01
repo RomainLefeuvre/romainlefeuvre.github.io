@@ -5,7 +5,7 @@ event: 2025 The International Conference on Information and Communications Techn
 
 location: Dublin, University College Dublin , Irland
 
-summary: In person presentation at ICT4S 2025.
+summary: In person presentation at [ICT4S 2025](https://conf.researchr.org/home/ict4s-2025).
 
 
 # Talk start and end times.
@@ -49,4 +49,4 @@ Click on the **PDF** button above to download the slides.
 
 {{% /callout %}}
 
-Presentation at ICT4S 2025 of a work we conducted with Sérgio Queiroz de Medeiros from the Federal University of Rio Grande do Norte Brazil.
+Presentation at [ICT4S 2025](https://conf.researchr.org/home/ict4s-2025) of a work we conducted with Sérgio Queiroz de Medeiros from the Federal University of Rio Grande do Norte Brazil.

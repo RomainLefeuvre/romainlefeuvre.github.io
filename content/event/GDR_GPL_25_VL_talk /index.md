@@ -1,12 +1,13 @@
 ---
-title: GDR GPL 2025 - Chasing One-day Vulnerabilities Across Open Source Forks
+title: GDR GPL 2025 - Modeling Sampling Workflows in Empirical Software Engineering
 
 
-event: 2025 meeting of French Research Consortium in Computer Science
+
+event: 2025 meeting of French Research Consortium in Computer Science 
 
 location: Pau, Université de Pau et des pays de l'Adour  , France
 
-summary: In person presentation at [2025 meeting of French Research Consortium in Computer Science](https://gdrgpl2025.sciencesconf.org/).
+summary: In person presentation at [2025 meeting of French Research Consortium in Computer Science](https://gdrgpl2025.sciencesconf.org/), [software velocity](https://gt-vl.github.io/) working group.
 
 
 # Talk start and end times.
@@ -25,7 +26,7 @@ featured: false
 
 links:
 url_code: ''
-url_pdf: 'GDR_GPL_25_poster.pdf'
+url_pdf: 'GDR_VL.pdf'
 url_slides: ''
 url_video: ''
 
@@ -45,9 +46,9 @@ projects:
   
 ---
 {{% callout note %}}
-Click on the **PDF** button above to download the poster.
+Click on the **PDF** button above to download the slides.
 
 
 {{% /callout %}}
 
-In person presentation at [2025 meeting of French Research Consortium in Computer Science](https://gdrgpl2025.sciencesconf.org/). This poster present a work currently in review.
+In person presentation at [2025 meeting of French Research Consortium in Computer Science](https://gdrgpl2025.sciencesconf.org/), of our ongoing work about sampling modelling in Mining Software Repository studies.
