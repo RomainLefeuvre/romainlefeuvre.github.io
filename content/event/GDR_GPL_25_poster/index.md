@@ -1,16 +1,17 @@
 ---
-title: ACM REP 2023 - Fingerprinting and Building Large Reproducible Datasets
+title: GDR GPL 2025 - Chasing One-day Vulnerabilities Across Open Source Forks
 
-event: 2023 ACM Conference on Reproducibility and Replicability
 
-location: Santa-Cruz, California, USA
+event: 2025 meeting of French Research Consortium in Computer Science
 
-summary: In person presentation at ACM-REP 2023.
+location: Pau, Université de Pau et des pays de l'Adour  , France
+
+summary: In person presentation at 2025 meeting of French Research Consortium in Computer Science.
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-06-27'
+date: '2025-06-11'
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -24,7 +25,7 @@ featured: false
 
 links:
 url_code: ''
-url_pdf: 'REP_23.pdf'
+url_pdf: 'GDR_GPL_25_poster.pdf'
 url_slides: ''
 url_video: ''
 
@@ -44,8 +45,9 @@ projects:
   
 ---
 {{% callout note %}}
-Click on the **PDF** button above to download the slides.
+Click on the **PDF** button above to download the poster.
 
 
 {{% /callout %}}
 
+In person presentation at 2025 meeting of French Research Consortium in Computer Science. This poster present a work currently in review.

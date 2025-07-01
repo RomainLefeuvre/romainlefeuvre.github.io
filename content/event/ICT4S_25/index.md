@@ -1,16 +1,16 @@
 ---
-title: ACM REP 2023 - Fingerprinting and Building Large Reproducible Datasets
+title: ICT4S 2025 - Evaluating the Energy Proﬁle of Tasks Managed by Build Automation Tools in Continuous Integration Workﬂows
 
-event: 2023 ACM Conference on Reproducibility and Replicability
+event: 2025 The International Conference on Information and Communications Technology for Sustainability
 
-location: Santa-Cruz, California, USA
+location: Dublin, University College Dublin , Irland
 
-summary: In person presentation at ACM-REP 2023.
+summary: In person presentation at ICT4S 2025.
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-06-27'
+date: '2025-06-11'
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -24,7 +24,7 @@ featured: false
 
 links:
 url_code: ''
-url_pdf: 'REP_23.pdf'
+url_pdf: 'ICT4S_25.pdf'
 url_slides: ''
 url_video: ''
 
@@ -49,3 +49,4 @@ Click on the **PDF** button above to download the slides.
 
 {{% /callout %}}
 
+Presentation at ICT4S 2025 of a work we conducted with Sérgio Queiroz de Medeiros from the Federal University of Rio Grande do Norte Brazil.

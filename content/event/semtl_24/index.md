@@ -1,5 +1,5 @@
 ---
-title: SEMTL - May 2024 
+title: SEMTL 2024 
 
 event: SEMTL - May 2024 Meeting 
 
