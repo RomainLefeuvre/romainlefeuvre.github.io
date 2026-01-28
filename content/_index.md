@@ -36,7 +36,7 @@ sections:
       
   - block: collection
     content:
-      title: Work in review
+      title: Current work
       filters:
         folders:
           - review

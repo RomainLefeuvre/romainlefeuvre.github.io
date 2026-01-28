@@ -14,7 +14,7 @@ authors:
 
 
 date: '2025-06-11T00:00:00Z'
-doi: ''
+doi: '10.1145/3744915.374846'
 
 
 # Publication type.
@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/10.1145/3744915.3748463'
 url_code: ''
 url_dataset: ''
 url_poster: ''
