@@ -45,7 +45,7 @@ url_code: 'https://gitlab.inria.fr/rlefeuvr/did-you-forkget-it/'
 url_dataset: ''
 url_poster: ''
 url_project: 'https://didyouforkgetit.dev/'
-url_slides: ''
+url_slides: 'pirat.pdf'
 url_source: ''
 url_video: ''
 
