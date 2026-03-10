@@ -74,7 +74,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://github.com/RomainLefeuvre/AcademicResumeLatexSource/releases/download/v1.7/main.pdf
+    link: https://github.com/RomainLefeuvre/AcademicResumeLatexSource/releases/latest/download/main.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
