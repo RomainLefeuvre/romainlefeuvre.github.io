@@ -1,5 +1,5 @@
 ---
-title: Mining Software Repository (MSR) conference presentation
+title: MSR 2026 - Modeling Sampling Workflows for Code Repositories
 date: '2026-04-13'
 summary: In person presentation of our work at MSR 2026, co-located with ICSE 2026 at Rio de Janeiro
 ---
