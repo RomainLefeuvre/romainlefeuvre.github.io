@@ -16,13 +16,13 @@ The DSL is implemented as a **Python fluent API**, executable on real datasets. 
 
 ## Automatic representativeness reasoning
 
-Having an explicit workflow structure opens the door to automated statistical analysis. The tool derives the needed statistical indicatorsto justify representativeness argument such as :  
+Having an explicit workflow structure opens the door to automated statistical analysis. The tool derives the needed statistical indicators to justify representativeness arguments in *theoretical generalization reasoning* between a sample and its sampling frame :  
 
 - **Distribution similarity** — Kolmogorov-Smirnov and Chi-square tests comparing each intermediate set to its parent
 - **Sample size adequacy** — Cochran's formula applied at each Random Operator to verify the sample is statistically sufficient
 - **Breadth analysis** — coverage of metadata classes across the sampling frame
 
-These indicators support both *theoretical generalization reasoning* (from sample to sampling frame, backed by statistics) and inform *practical generalization reasoning* (from sampling frame to population, which remains the researcher's responsibility).
+
 
 
 
