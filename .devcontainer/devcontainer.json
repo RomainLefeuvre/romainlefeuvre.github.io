@@ -1,0 +1,19 @@
+{
+  "name": "Hugo Site",
+  "image": "hugomods/hugo:exts-0.123.8",
+  "forwardPorts": [1313],
+  "portsAttributes": {
+    "1313": {
+      "label": "Hugo Dev Server",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "postCreateCommand": "hugo mod download",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "budparr.language-hugo-vscode"
+      ]
+    }
+  }
+}
